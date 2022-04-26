@@ -1,8 +1,7 @@
 # Informações do Projeto
-`filtermaster`  
-Nome Provisório
+`TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... FilterM (Nome Provisório) ......
 
 `Ciência da Computação` 
 
