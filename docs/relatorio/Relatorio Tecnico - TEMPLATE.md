@@ -1,21 +1,21 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-...... FilterM (Nome Provisório) ......
+FilterM (Nome Provisório)
 
 `Curso` 
 
-......  Ciência da Computação ......
+Ciência da Computação
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - André Fazito
+> - Arthur Torres
+> - Barbara Soraggi
+> - Bernardo D'Ávila
+> - Camila Hollerbach
+> - Henrique Lourenço Pinto Coelho
+> - Marcelo Freitas
 
 # Estrutura do Documento
 
