@@ -1,5 +1,6 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`filtermaster`  
+Nome Provisório
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
