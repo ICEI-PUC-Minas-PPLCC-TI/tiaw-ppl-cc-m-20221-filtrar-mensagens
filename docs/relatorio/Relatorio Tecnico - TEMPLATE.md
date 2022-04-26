@@ -3,7 +3,7 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+`Ciência da Computação` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
