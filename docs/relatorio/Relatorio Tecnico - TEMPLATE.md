@@ -3,9 +3,9 @@
 
 ...... FilterM (Nome Provisório) ......
 
-`Ciência da Computação` 
+`Curso` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Ciência da Computação ......
 
 ## Participantes
 
