@@ -125,9 +125,9 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona](imaages/../images/persona1.png)
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
 
 
 ## Histórias de Usuários
