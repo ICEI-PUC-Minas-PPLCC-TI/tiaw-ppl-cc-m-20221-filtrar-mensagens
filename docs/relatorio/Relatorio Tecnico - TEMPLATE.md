@@ -81,7 +81,7 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 
 # Especificações do Projeto
 
-A criação de Personas e seus Mapas de empatia, são estrátegias para se cohecer
+-------FALTA TERMINAR-----------------
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
