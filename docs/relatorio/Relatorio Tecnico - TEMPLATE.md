@@ -81,11 +81,7 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 
 # Especificações do Projeto
 
--------FALTA TERMINAR-----------------
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A definição do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada a partir da participação dos usuários em formulário feito pelos membros da equipe. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas e Mapas de Empatia
 
@@ -152,9 +148,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
+|01| O projeto deverá ser entregue até o dia 28/04/2022 |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03|A equipe não pode subcontratar o desenvolvimento do trabalho. |
+|03|A equipe deve participar de todo o desenvolvimento do trabalho |
 
 # Projeto de Interface
 
