@@ -1,6 +1,6 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
-Filtrar Mensagens
+MFilter
 
 `Curso` 
 
