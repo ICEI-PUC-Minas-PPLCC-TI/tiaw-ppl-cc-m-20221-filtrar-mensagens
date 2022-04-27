@@ -123,11 +123,17 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Persona Ângela**
+>    
+> ![Persona](imaages/../images/persona1.png)
+> ![mapa](imaages/../images/mp1.PNG)
 > 
-> ![Exemplo de Persona](imaages/../images/persona1.png)
-> ![Exemplo de mapa](imaages/../images/mp1.PNG)
-> 
+> **Persona Bruna**
+>    
+> ![Persona](imaages/../images/persona2.png)
+
+
+
 
 
 
