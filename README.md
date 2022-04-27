@@ -15,8 +15,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
-* Walison
-* Cleiton
+* Wallison
+* Cleyton
 
 ## Instruções de utilização
 
