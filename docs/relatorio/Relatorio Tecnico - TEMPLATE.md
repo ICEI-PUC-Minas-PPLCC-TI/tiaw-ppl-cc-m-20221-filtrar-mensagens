@@ -92,12 +92,21 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 > **Persona Ângela**
 >    
 > ![Persona](imaages/../images/persona1.png)
+> 
 > ![mapa](imaages/../images/mp1.PNG)
 > 
 > **Persona Bruna**
 >    
 > ![Persona](imaages/../images/persona2.png)
+> 
 > ![mapa](imaages/../images/mp2.PNG)
+> 
+> **Persona Pedro**
+> 
+> ![Persona](imaages/../images/persona3.png)
+> 
+> ![mapa](imaages/../images/mp3.PNG)
+>
 
 ## Histórias de Usuários
 
