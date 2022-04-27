@@ -131,11 +131,7 @@ Mais especificamente, o foco desse projeto é para as pessoas que estão trabalh
 > **Persona Bruna**
 >    
 > ![Persona](imaages/../images/persona2.png)
-
-
-
-
-
+> ![mapa](imaages/../images/mp2.PNG)
 
 ## Histórias de Usuários
 
@@ -143,30 +139,27 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+| Ângela Mercury     | filtrar as informações importantes relacionadas ao meu curso.     | para caso alguém fale alguma coisa importante ou relevante relacionada a matéria, uma vez que, às vezes essas mensagens se perdem no meio de mensagens inúteis do dia a dia, como por exemplo futebol.              |
+|Bruna Sampaio       | organizar e separar minhas mensagens pessoais e profissionais.      | para que assim consiga garantir notas melhores na faculdade, e consiga persuadir o seu sonho de, um dia, se tornar editora. |
+|Pedro Alves         |organizar as mensagens dos meus vários grupos: de sair com amigos, de técnicas para bonsais, que é o meu hobby preferido, de minhas atividades esportivas e do meu trabalho.|para que eu consiga estar inteirado de todos os grupos de uma vez, sem me perder em todos eles.|
 
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Nosso projeto é definido por **requisitos funcionais**, que descrevem os principais aspectos do programa, assim como os **requisitos não funcionais**, que descrevem como o programa deve funcionar de uma forma mais geral. Estes requisitos estão apresentados abaixo.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001|dar ao usuário a opção de atribuir prioridade aos contatos.| ALTA | 
+|RF-002|ter um sistema de tags que pode ser organizado por cores ou nomes. | ALTA |
+|RF-003|apresentar a opção de destacar uma ou mais mensagens para todos os integrantes de um grupo.| ALTA |
+|RF-004|ter um sistema de organização de mensagens por meio de pastas.| ALTA |
+|RF-005|dar a opção de silenciar integrantes de um grupo individualmente.| MÉDIA |
+|RF-006|ter um sistema de filtração de mensagens de áudio e mídias (fotos, vídeos e documentos).| MÉDIA |
+|RF-007|apresentar a opção de implementar um sistema de cooldown para integrantes de um grupo.| MÉDIA |
+|RF-008|dar a opção de implementar senhas para diferentes pastas e mensagens salvas.| BAIXA |
+|RF-009|ter um modo noturno e um modo diurno.| BAIXA |
+|RF-010|apresentar a opção individual de apagar as mensagens de um grupo após um certo tempo. | BAIXA |
 
 
 ### Requisitos não Funcionais
