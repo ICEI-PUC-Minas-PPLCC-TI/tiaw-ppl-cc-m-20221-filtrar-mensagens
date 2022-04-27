@@ -223,9 +223,10 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuEkiQ=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-filtrar-mensagens/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md |  
+|Protótipo Interativo Desktop |Figma | https://www.figma.com/proto/7ooGBgBuhTfEbSfdmuBODS/TIAW-Prot%C3%B3tipo-Interativo-DESKTOP?node-id=1%3A80&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A730 | 
+|Protótipo Interativo Mobile |Figma | https://www.figma.com/proto/bFc4DXWn8Avo1MnyDSk9Vc/TIAW-Prot%C3%B3tipo-Interativo-MOBILE?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A775 |
+|Protótipo Interativo Mobile |Figma | https://figma.com/XXXXXXX |
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
