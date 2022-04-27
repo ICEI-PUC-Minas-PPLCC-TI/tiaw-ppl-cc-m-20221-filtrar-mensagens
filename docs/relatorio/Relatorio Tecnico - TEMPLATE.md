@@ -202,34 +202,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para a realização do projeto, adotamos a metodologia do Design Thinking e Scrum Framework, com isso, possibilitou uma ampla visão sobre nossos futuros clientes, e a divisão de cada etapa da Sprint, mantendo uma coerência . Iniciamos com o processo de Design Thinking, no Miro, etapas como Matriz CSD, Mapa de Stakeholders, Personas, Mapas de Empatia, Brainstorming de ideias, essas, foram etapas essenciais para compreendermos o desenvolvimentos desse projeto.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+|Integrantes      |Função       |
+|-----------------|-------------|
+|André Fazito     |Desenvolvedor|
+|Arthur Torres    |Desenvolvedor|
+|Barbara Soraggi  |Desenvolvedor|
+|Bernardo D'Ávila |Desenvolvedor|
+|Camila Hollerbach|Desenvolvedor|
+|Henrique Lourenço|Desenvolvedor|
+|Marcelo Freitas  |Desenvolvedor|
 
 ## Ferramentas
 
@@ -237,7 +222,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuEkiQ=/ | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
