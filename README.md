@@ -7,11 +7,11 @@ Em nosso projeto, iremos propor uma **solução** para esse **problema**, visto 
 
 ## Alunos integrantes da equipe
 
-* André Fazito
+* André Fazito Morais
 * Arthur Torres Lemos
 * Barbara Hellen Pereira Soraggi
 * Bernardo D'Ávila Rodrigues Bartholomeu
-* Camila Hollerbach
+* Camila Hollerbach Macedo
 * Henrique Lourenço Pinto Coelho
 * Marcelo Mendes Rocha de Freitas
 
