@@ -155,8 +155,15 @@ Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multi
 
 
 ## User Flow
-Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multiplas tecnicas de design thinking aplicado a design de experiencia, focando em usabilidade e na facilidade de uso. 
-Alem disso, desenvolvemos uma versão mobile (seguindo a metodologia mobile first) e uma versão para desktop, com objetivo de abarcar o maximo possivel do nosso publico alvo. 
+Ao abrir a aplicação, o usuario encontrar uma tela na qual ele podera realizar seu login. Uma vez feito, ele sera direcionado para a tela principal da aplicação, contendo as principais fontes de menssagens favoritadas por ele. 
+
+> ![Persona](imaages/../images/persona1.png)
+
+Uma vez nessa tela, ele pode navegar pela lista de menssagens, entrar nas pastas feitas anteriormente, ir para a lista de tags criadas, abrir sua lista de contatos ou gerenciar as configurações da aplicação. 
+
+> ![Persona](imaages/../images/persona1.png)
+
+Em qualquer uma dessas telas, o usuario pode avançar para qualquer outra das telas.
 
 
 
