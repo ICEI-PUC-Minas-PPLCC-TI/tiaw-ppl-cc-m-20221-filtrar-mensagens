@@ -6,9 +6,9 @@
 ## Participantes
 > Os membros do grupo são: 
 > - André Fazito
-> - Arthur Torres
+> - Arthur Torres Lemos
 > - Barbara Soraggi
-> - Bernardo D'Ávila
+> - Bernardo D'Ávila Rodrigues Bartholomeu
 > - Camila Hollerbach
 > - Henrique Lourenço Pinto Coelho
 > - Marcelo Mendes Rocha de Freitas
