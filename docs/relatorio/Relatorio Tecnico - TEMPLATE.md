@@ -151,12 +151,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multiplas tecnicas de design thinking aplicado a design de experiencia, focando em usabilidade e na facilidade de uso. Alem disso, desenvolvemos uma versão mobile (seguindo a metodologia mobile first) e uma versão para desktop, com objetivo de abarcar o maximo possivel do nosso publico alvo. 
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
