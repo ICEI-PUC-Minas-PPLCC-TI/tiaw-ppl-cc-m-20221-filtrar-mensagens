@@ -11,7 +11,7 @@
 > - Bernardo D'Ávila
 > - Camila Hollerbach
 > - Henrique Lourenço Pinto Coelho
-> - Marcelo Freitas
+> - Marcelo Mendes Rocha de Freitas
 
 # Estrutura do Documento
 
