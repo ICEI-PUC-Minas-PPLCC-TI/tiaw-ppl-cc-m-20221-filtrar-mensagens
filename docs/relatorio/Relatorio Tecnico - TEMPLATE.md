@@ -205,18 +205,16 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
 |Integrantes      |Função       |
 |-----------------|-------------|
+|Barbara Soraggi  |Scrum Master |
+|Professores      |Product Owner|
 |André Fazito     |Desenvolvedor|
 |Arthur Torres    |Desenvolvedor|
-|Barbara Soraggi  |Scrum Master |
 |Bernardo D'Ávila |Desenvolvedor|
 |Camila Hollerbach|Desenvolvedor|
 |Henrique Lourenço|Desenvolvedor|
 |Marcelo Freitas  |Desenvolvedor|
-|Professores      |Product Owner|
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -224,6 +222,7 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-filtrar-mensagens/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md |  
 |Protótipo Interativo Desktop |Figma | https://www.figma.com/proto/7ooGBgBuhTfEbSfdmuBODS/TIAW-Prot%C3%B3tipo-Interativo-DESKTOP?node-id=1%3A80&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A730 | 
 |Protótipo Interativo Mobile |Figma | https://www.figma.com/proto/bFc4DXWn8Avo1MnyDSk9Vc/TIAW-Prot%C3%B3tipo-Interativo-MOBILE?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A775 |
+|Quadro kanban |Trello | https://trello.com/XXXXXXX |
 |Protótipo Interativo Mobile |Figma | https://figma.com/XXXXXXX |
 
 >
