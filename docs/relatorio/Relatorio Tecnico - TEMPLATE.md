@@ -155,15 +155,8 @@ Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multi
 
 
 ## User Flow
-Ao abrir a aplicação, o usuario encontrar uma tela na qual ele podera realizar seu login. Uma vez feito, ele sera direcionado para a tela principal da aplicação, contendo as principais fontes de menssagens favoritadas por ele. 
-
-> ![Persona](imaages/../images/persona1.png)
-
-Uma vez nessa tela, ele pode navegar pela lista de menssagens, entrar nas pastas feitas anteriormente, ir para a lista de tags criadas, abrir sua lista de contatos ou gerenciar as configurações da aplicação. 
-
-> ![Persona](imaages/../images/persona1.png)
-
-Em qualquer uma dessas telas, o usuario pode avançar para qualquer outra das telas.
+Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multiplas tecnicas de design thinking aplicado a design de experiencia, focando em usabilidade e na facilidade de uso. 
+Alem disso, desenvolvemos uma versão mobile (seguindo a metodologia mobile first) e uma versão para desktop, com objetivo de abarcar o maximo possivel do nosso publico alvo. 
 
 
 
@@ -215,6 +208,23 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 |Quadro kanban |Trello |https://trello.com/b/6wwOCfRP/tiaw |
 |Ferramentas de comunicação |Discord e Whatsapp |https://discord.com e https://www.whatsapp.com |
 |Editor de código |VScode | https://code.visualstudio.com |
+
+Para **organização e distribuição das tarefas** do projeto, a equipe está utilizando o **Trello** estruturado com as seguintes listas: 
+
+**Recursos**: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+
+**Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+**To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+
+**Doing**: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+**Test**: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+
+**Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+**Locked**: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa
+
 
 ## Controle de Versão
 
