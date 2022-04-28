@@ -151,11 +151,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multiplas tecnicas de design thinking aplicado a design de experiencia, focando em usabilidade e na facilidade de uso. Alem disso, desenvolvemos uma versão mobile (seguindo a metodologia mobile first) e uma versão para desktop, com objetivo de abarcar o maximo possivel do nosso publico alvo. 
+Para garantir a melhor experiência possível para o usuário, fizemos uso de múltiplas técnicas de design thinking aplicado a design de experiência, focado em usabilidade e na facilidade de uso. Além disso, desenvolvemos uma versão mobile (seguindo a metodologia mobile first) é uma versão para desktop, com objetivo de abarcar o máximo possível do nosso público alvo. 
 
 
 ## User Flow
-Ao abrir a aplicação, o usuario encontrar uma tela na qual ele podera realizar seu login. Uma vez feito, ele sera direcionado para a tela principal da aplicação, contendo os contados inseridos por ele. 
+Ao abrir a aplicação, o usuário encontra uma tela na qual ele poderá realizar seu login. Uma vez feito, ele será direcionado para a tela principal da aplicação, contendo os contatos inseridos por ele.
 
 > ![Flow](imaages/../images/flow_inicio_tela_principal.png)
 
