@@ -228,8 +228,8 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
 ## Controle de Versão
 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
+ O projeto segue a seguinte convenção para o nome de branchs:
+ 
 > - `master`: versão estável já testada do software
 > - `unstable`: versão já testada do software, porém instável
 > - `testing`: versão em testes do software
@@ -241,11 +241,6 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
 >
 > **Exemplo - GitHub Feature Branch Workflow**:
 >
