@@ -210,11 +210,12 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 |-----------------|-------------|
 |André Fazito     |Desenvolvedor|
 |Arthur Torres    |Desenvolvedor|
-|Barbara Soraggi  |Desenvolvedor|
+|Barbara Soraggi  |Scrum Master |
 |Bernardo D'Ávila |Desenvolvedor|
 |Camila Hollerbach|Desenvolvedor|
 |Henrique Lourenço|Desenvolvedor|
 |Marcelo Freitas  |Desenvolvedor|
+|Professores      |Product Owner|
 
 ## Ferramentas
 
