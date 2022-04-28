@@ -155,15 +155,17 @@ Para garantir a melhor experiencia possivel para o usuario, fizemos uso de multi
 
 
 ## User Flow
-Ao abrir a aplicação, o usuario encontrar uma tela na qual ele podera realizar seu login. Uma vez feito, ele sera direcionado para a tela principal da aplicação, contendo as principais fontes de menssagens favoritadas por ele. 
+Ao abrir a aplicação, o usuario encontrar uma tela na qual ele podera realizar seu login. Uma vez feito, ele sera direcionado para a tela principal da aplicação, contendo os contados inseridos por ele. 
 
 > ![Flow](imaages/../images/flow_inicio_tela_principal.png)
 
-Uma vez nessa tela, ele pode navegar pela lista de menssagens, entrar nas pastas feitas anteriormente, ir para a lista de tags criadas, abrir sua lista de contatos ou gerenciar as configurações da aplicação. 
+Uma vez nessa tela, ele pode navegar pela lista de menssagens, entrar nas pastas feitas anteriormente, ir para a lista de tags criadas, abrir sua lista menssagens favoritadas ou gerenciar as configurações da aplicação. 
 
 > ![Flow](imaages/../images/tela_principal_outras.png)
 
-Em qualquer uma dessas telas, o usuario pode avançar para qualquer outra das telas.
+> ![Flow](imaages/../images/tela_principal_outras.png)
+
+Em qualquer uma dessas telas, o usuario pode avançar para qualquer outra das telas. Para uma vizualição melhor checar o arquivo https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-filtrar-mensagens/blob/c7b653f7bae5054706cca77755cb616b08fced98/docs/relatorio/images/TIAW-User%20Flow.pdf
 
 
 
