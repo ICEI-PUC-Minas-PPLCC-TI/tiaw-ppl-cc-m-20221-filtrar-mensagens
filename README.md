@@ -10,7 +10,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Bernardo D'Ávila
 * Camila Hollerbach
 * Henrique Lourenço Pinto Coelho
-* Marcelo Freitas
+* Marcelo Mendes Rocha de Freitas
 
 ## Professores responsáveis
 
