@@ -7,7 +7,7 @@
 > Os membros do grupo são: 
 > - André Fazito
 > - Arthur Torres Lemos
-> - Barbara Soraggi
+> - Barbara Hellen Pereira Soraggi
 > - Bernardo D'Ávila Rodrigues Bartholomeu
 > - Camila Hollerbach
 > - Henrique Lourenço Pinto Coelho
