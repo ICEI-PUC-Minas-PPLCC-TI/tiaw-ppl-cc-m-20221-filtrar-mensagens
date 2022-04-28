@@ -1,10 +1,6 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
-MFilter
-
-`Curso` 
-
-Ciência da Computação
+`MFilter` 
+`Trabalho Interdisciplinar: Aplicações WEB;Ciência da Computação` 
 
 ## Participantes
 > Os membros do grupo são: 
