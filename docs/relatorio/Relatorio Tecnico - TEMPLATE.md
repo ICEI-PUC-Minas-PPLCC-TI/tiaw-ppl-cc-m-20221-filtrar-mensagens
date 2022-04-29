@@ -9,7 +9,7 @@
 > - Arthur Torres Lemos
 > - Barbara Hellen Pereira Soraggi
 > - Bernardo D'Ávila Rodrigues Bartholomeu
-> - Camila Hollerbach
+> - Camila Hollerbach Pimenta Macedo
 > - Henrique Lourenço Pinto Coelho
 > - Marcelo Mendes Rocha de Freitas
 
