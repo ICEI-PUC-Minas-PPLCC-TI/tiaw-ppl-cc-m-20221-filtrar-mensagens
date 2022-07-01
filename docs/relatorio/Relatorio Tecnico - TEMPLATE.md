@@ -233,6 +233,7 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 ## Tecnologias Utilizadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+A solução utilizada foi a criação de um site, nele é possível o usuário criar a sua conta, e depois consegue configurar seu perfil. Além disso, o nosso software permite a criação de pastas, a fim de organizar melhor suas mensagens, outra funcionalidade, é a criação e edição de tags, assim o cliente, configura as mensagens recebidas do jeito que o proprio cliente deseja.
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
