@@ -252,15 +252,21 @@ Conectividade de Internet para acesso às plataformas (APIs)
 - Os testes de funcionalidades estão descritos a seguir:
  ![Tabela testes](images/tabela1.PNG)
  ![Tabela testes](images/tabela2.PNG)
+ 
  **Registro de Testes de Software**
+
 - Os resultados obtidos nos testes de software realizados são descritos na Tabela a seguir.
 - ![Tabela testes](images/tabela3.PNG)
+ 
  **Plano de Testes de Usabilidade**
+
 - Identificação de objetivos do teste de usabilidade
 - Detalhes do público envolvido nos testes
 - Roteiro detalhado das tarefas que foram desempenhadas pelos usuários
  ![Tabela testes](images/tabela4.PNG)
+ 
  **Plano de Testes de Usabilidade**
+
 - Os resultados obtidos nos testes de usabilidade realizados são descritos na Tabela a seguir.
 - Relatório com detalhamento das pessoas envolvidas no teste (indicar claramente o número de usuários que testaram o sistema)
 - Relatório com registro dos testes feitos: fotos, prints de telas, relatos dos usuários
