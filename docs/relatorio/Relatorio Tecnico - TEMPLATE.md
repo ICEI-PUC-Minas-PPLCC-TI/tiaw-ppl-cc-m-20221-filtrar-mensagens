@@ -257,7 +257,7 @@ Conectividade de Internet para acesso às plataformas (APIs)
  **Registro de Testes de Software**
 
 - Os resultados obtidos nos testes de software realizados são descritos na Tabela a seguir.
-- ![Tabela testes](images/tabela3.PNG)
+![Tabela testes](images/tabela3.PNG)
  
  **Plano de Testes de Usabilidade**
 
