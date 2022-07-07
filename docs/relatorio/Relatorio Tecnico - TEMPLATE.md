@@ -239,47 +239,32 @@ A solução implementada conta com os seguintes módulos:
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-Teste de unidade - 
-Teste de carga - 
-
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+A documentação dos planos de testes feitos para garantir a qualidade de nossa ferramenta encontra-se em seguir.
 
 ## Plano de Testes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Requisitos para a realização do teste:
+Site funcional publico na internet
+Navegador da Internet - Chrome, Firefox ou Edge
+Conectividade de Internet para acesso às plataformas (APIs)
+ 
+Os testes de funcionalidades estão descritos a seguir:
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+|Caso de teste| Manipulação de Pastas e Tags   |
+|--|-------------------------------------------------------|
+|Requisitos associados| RF-02 - O programa deve ter um sistema de tags que pode ser organizado por cores ou nomes.
+RF-04 - O programa deve ter um sistema de organização de mensagens por meio de pastas |
+|Objetivo do teste| Verificar se o sistema de filtração está funcionando corretamente        |
+|Passos|1)Abrir o site
+2)Ir nas sessões de pastas e tags
+3)Criar, editar e excluir pastas com cores, nomes e comentários diferentes
+ |
+|Critérios de êxito|As pastas e tags devem ser adicionadas na barra da esquerda, mostrando o nome, cor e comentário correto (decidido pelo usuário);
+O usuário deverá conseguir editar e excluir a pasta ou tag que quiser;
+Pastas e tags de cores mais claras deverão apresentar um ícone preto invés de branco;
+ |
 
 
 # Referências
