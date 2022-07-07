@@ -231,6 +231,7 @@ A solução implementada conta com os seguintes módulos:
 - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
 - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:
 > Mensagens - Mensagens que são enviadas
+> 
 > Contatos - Seção que permite visualizar os contatos
 - JSON - plataforma que permite adicionar contatos, criar pastas e tags
 - Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
