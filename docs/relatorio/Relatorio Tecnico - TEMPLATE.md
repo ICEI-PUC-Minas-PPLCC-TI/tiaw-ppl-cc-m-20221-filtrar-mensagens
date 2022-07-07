@@ -235,7 +235,7 @@ As tecnologias utilizadas para a realização do software foi, VScode,Miro,Boots
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/Internet.jpg)
 
 
 # Avaliação da Aplicação
