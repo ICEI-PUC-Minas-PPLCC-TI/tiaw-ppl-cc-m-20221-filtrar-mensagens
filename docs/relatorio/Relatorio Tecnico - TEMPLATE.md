@@ -227,14 +227,14 @@ A solução utilizada foi a criação de um site. Além disso, o nosso software 
 As tecnologias utilizadas para a realização do software foi, VScode,Miro,Bootstrap e as linguagens que foram utilizadas são HTML, CSS, JavaScript.
 
 ## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
+A solução implementada conta com os seguintes módulos:
+- Navegador - Interface básica do sistema
+- Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+- Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:
+> Mensagens - Mensagens que são enviadas
+> Contatos - Seção que permite visualizar os contatos
+- JSON - plataforma que permite adicionar contatos, criar pastas e tags
+- Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 > ![Exemplo de Arquitetura](images/Internet.jpg)
 
 
