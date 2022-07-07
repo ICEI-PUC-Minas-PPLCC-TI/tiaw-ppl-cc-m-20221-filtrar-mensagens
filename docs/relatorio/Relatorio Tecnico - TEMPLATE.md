@@ -282,4 +282,7 @@ Conectividade de Internet para acesso às plataformas (APIs)
 - https://www.atlassian.com/br/agile/project-management/user-stories
 - https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/
 - https://mindmaster.com.br/scrum-11-passos/
-
+- https://periodicos.uninove.br/gep/article/view/9640
+- https://blog.onedaytesting.com.br/teste-de-software/
+- http://www.revistatis.dc.ufscar.br/index.php/revista/article/view/81/75
+- https://www.youtube.com/watch?v=_hZf1teRFNg
