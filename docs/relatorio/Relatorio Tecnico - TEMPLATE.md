@@ -250,9 +250,8 @@ Conectividade de Internet para acesso às plataformas (APIs)
 Os testes de funcionalidades estão descritos a seguir:
 
 ## Registros de Testes
--(images/tabela 1.PNG)
--(images/tabela 2.PNG)
 
+![Tabela testes](images/tabela 1.PNG)
 
 # Referências
 
