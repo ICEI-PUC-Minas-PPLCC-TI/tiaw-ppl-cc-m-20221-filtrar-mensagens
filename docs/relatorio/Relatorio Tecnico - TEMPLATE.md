@@ -250,21 +250,7 @@ Conectividade de Internet para acesso às plataformas (APIs)
 Os testes de funcionalidades estão descritos a seguir:
 
 ## Registros de Testes
-
-
-|Caso de teste| Manipulação de Pastas e Tags   |
-|--|-------------------------------------------------------|
-|Requisitos associados| RF-02 - O programa deve ter um sistema de tags que pode ser organizado por cores ou nomes.
-RF-04 - O programa deve ter um sistema de organização de mensagens por meio de pastas |
-|Objetivo do teste| Verificar se o sistema de filtração está funcionando corretamente        |
-|Passos|1)Abrir o site
-2)Ir nas sessões de pastas e tags
-3)Criar, editar e excluir pastas com cores, nomes e comentários diferentes
- |
-|Critérios de êxito|As pastas e tags devem ser adicionadas na barra da esquerda, mostrando o nome, cor e comentário correto (decidido pelo usuário);
-O usuário deverá conseguir editar e excluir a pasta ou tag que quiser;
-Pastas e tags de cores mais claras deverão apresentar um ícone preto invés de branco;
- |
+(images/Github-Workflow.png)
 
 
 # Referências
