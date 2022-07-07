@@ -5,13 +5,10 @@
 
 ## Participantes
 > Os membros do grupo são: 
-> - André Fazito
-> - Arthur Torres Lemos
 > - Barbara Hellen Pereira Soraggi
 > - Bernardo D'Ávila Rodrigues Bartholomeu
 > - Camila Hollerbach Pimenta Macedo
 > - Henrique Lourenço Pinto Coelho
-> - Marcelo Mendes Rocha de Freitas
 
 # Estrutura do Documento
 
@@ -182,14 +179,11 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
 |Integrantes      |Função       |
 |-----------------|-------------|
-|Barbara Soraggi  |Scrum Master |
+|Camila Hollerbach|Scrum Master |
 |Professores      |Product Owner|
-|André Fazito     |Desenvolvedor|
-|Arthur Torres    |Desenvolvedor|
 |Bernardo D'Ávila |Desenvolvedor|
-|Camila Hollerbach|Desenvolvedor|
+|Barbara Soraggi  |Desenvolvedor|
 |Henrique Lourenço|Desenvolvedor|
-|Marcelo Freitas  |Desenvolvedor|
 
 ## Ferramentas
 
@@ -228,12 +222,11 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-A solução utilizada foi a criação de um site, nele é possível o usuário criar a sua conta, e depois consegue configurar seu perfil. Além disso, o nosso software permite a criação de pastas, a fim de organizar melhor suas mensagens, outra funcionalidade, é a criação e edição de tags, assim o cliente, configura as mensagens recebidas do jeito que o proprio cliente deseja.
+A solução utilizada foi a criação de um site. Além disso, o nosso software permite a criação de pastas,tags, favoritos a fim de organizar melhor suas mensagens, outra funcionalidade que nosso software permite é adicionar algum contato, assim o cliente configura as mensagens recebidas do jeito que deseja. 
+As tecnologias utilizadas para a realização do software foi, VScode,Miro,Bootstrap e as linguagens que foram utilizadas são HTML, CSS, JavaScript.
 
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
