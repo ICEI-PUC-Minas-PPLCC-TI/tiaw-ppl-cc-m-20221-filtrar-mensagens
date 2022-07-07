@@ -252,7 +252,7 @@ Os testes de funcionalidades estão descritos a seguir:
 ## Registros de Testes
 
 tabela
-![Tabela testes](images/tabela 1.PNG)
+![Tabela testes](images/tabela1.PNG)
 
 # Referências
 
