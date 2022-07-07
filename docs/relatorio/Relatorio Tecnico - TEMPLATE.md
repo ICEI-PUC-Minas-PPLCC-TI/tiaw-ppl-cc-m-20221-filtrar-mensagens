@@ -276,11 +276,10 @@ Conectividade de Internet para acesso às plataformas (APIs)
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac
+- https://analisederequisitos.com.br/requisitos-funcionais-e-nao-funcionais/#Exemplo_de_Requisito_nao_Funcional
+- https://codificar.com.br/requisitos-funcionais-nao-funcionais/
+- https://www.atlassian.com/br/agile/project-management/user-stories
+- https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/
+- https://mindmaster.com.br/scrum-11-passos/
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
