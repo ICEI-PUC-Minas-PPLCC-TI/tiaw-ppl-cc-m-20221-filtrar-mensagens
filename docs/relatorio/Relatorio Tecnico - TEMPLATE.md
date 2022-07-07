@@ -217,8 +217,6 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
  ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
 
 # Projeto da Solução
 
@@ -227,20 +225,6 @@ Para a realização do projeto, adotamos a metodologia do Design Thinking e Scru
 
 A solução utilizada foi a criação de um site. Além disso, o nosso software permite a criação de pastas,tags, favoritos a fim de organizar melhor suas mensagens, outra funcionalidade que nosso software permite é adicionar algum contato, assim o cliente configura as mensagens recebidas do jeito que deseja. 
 As tecnologias utilizadas para a realização do software foi, VScode,Miro,Bootstrap e as linguagens que foram utilizadas são HTML, CSS, JavaScript.
-
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
