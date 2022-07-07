@@ -34,7 +34,6 @@
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
