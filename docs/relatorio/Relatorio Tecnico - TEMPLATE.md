@@ -246,13 +246,13 @@ Requisitos para a realização do teste:
 Site funcional publico na internet
 Navegador da Internet - Chrome, Firefox ou Edge
 Conectividade de Internet para acesso às plataformas (APIs)
- 
-Os testes de funcionalidades estão descritos a seguir:
+
 
 ## Registros de Testes
+- Os testes de funcionalidades estão descritos a seguir:
 
-tabela
 ![Tabela testes](images/tabela1.PNG)
+![Tabela testes](images/tabela2.PNG)
 
 # Referências
 
